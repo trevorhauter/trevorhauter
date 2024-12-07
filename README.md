@@ -5,10 +5,10 @@ bachelors degree in computer science.
 
 I am passionate about:
 
-- Environmentalism and the important role software plays in our future.
-- Machine learning - I plan to pursue a masters in ML after getting my bachelors.
-- Open source software, privacy, and security.
-- Neovim/Lua - Check out my plugin below!
+🌱 Ethical software - Companies and products that do good for the world and their users.
+🤖 Machine learning - I plan to pursue a masters in ML after getting my bachelors.
+🔓 Open source software - Privacy, security, and user choice.
+✨ Neovim/Lua - Check out my plugin below!
 
 <a href="https://github.com/trevorhauter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevorhauter&theme=ayu-mirage&hide=css,html,markdown&langs_count=3" />
