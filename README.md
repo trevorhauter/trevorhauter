@@ -1,11 +1,11 @@
 ### Howdy!
 
-I am Trevor Hauter, I work full time as a software engineer in climate tech and I am also focused on getting my 
-bachelors in computer science.
+I am Trevor Hauter, I work full time as a software engineer in climate tech and I am also working on getting my 
+bachelors degree in computer science.
 
 I am passionate about:
 
-- Environmentalism, and softwares role in creating a better tomorrow.
+- Environmentalism and the important role software plays in our future.
 - Machine learning - I plan to pursue a masters in ML after getting my bachelors.
 - Open source software, privacy, and security.
 - Neovim/Lua - Check out my plugin below!
