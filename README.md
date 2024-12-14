@@ -5,9 +5,9 @@ bachelors degree in computer science.
 
 I am passionate about:
 
-- 🌱 Ethical software - Companies and products that do good for the world.
-- 🤖 Machine learning - I plan to pursue a masters in ML after getting my bachelors.
-- 🔓 Open source software - Privacy, security, and user choice.
+- 🌱 Ethical software 
+- 🤖 Machine learning 
+- 🔓 Open source software 
 - ✨ Neovim/Lua - Check out my plugin [gitportal.nvim](https://github.com/trevorhauter/gitportal.nvim)!
 
 <a href="https://github.com/trevorhauter">
