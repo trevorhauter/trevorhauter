@@ -10,8 +10,8 @@ I am passionate about:
 - 🔓 Open source software 
 - ✨ Neovim/Lua - Check out my plugin [gitportal.nvim](https://github.com/trevorhauter/gitportal.nvim)!
 
-<a href="https://github.com/trevorhauter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevorhauter&theme=ayu-mirage&hide=css,html,markdown&langs_count=6" />
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 <a href="https://github.com/trevorhauter">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=trevorhauter&show_icons=true&count_private=true&line_height=27&theme=ayu-mirage" />
