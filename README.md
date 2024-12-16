@@ -10,4 +10,4 @@ I am passionate about:
 - 🔓 Open source software 
 - ✨ Neovim/Lua - Check out my plugin [gitportal.nvim](https://github.com/trevorhauter/gitportal.nvim)!
 
-| <a href="https://github.com/trevorhauter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trevorhauter&show_icons=true&include_all_commits=true&theme=mirage&hide_border=true" alt="Trevor's github stats" /></a> | <a href="https://github.com/trevorhauter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevorhauter&layout=compact&theme=mirage&hide_border=true" /></a> |
+<a href="https://github.com/trevorhauter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trevorhauter&show_icons=true&include_all_commits=true&theme=solarized-light&hide_border=true" alt="Trevor's github stats" /></a> | <a href="https://github.com/trevorhauter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevorhauter&layout=compact&theme=solarized-light&hide_border=true" /></a>
