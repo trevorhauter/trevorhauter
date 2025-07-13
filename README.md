@@ -9,7 +9,7 @@ I am passionate about:
 - 🌱 Open source software
 - 🔓 User privacy, data ownership
 - ✨ Neovim & developer productivity - check out my plugin [gitportal.nvim](https://github.com/trevorhauter/gitportal.nvim)!
-- 🖌️ The intersection between software & art. Check out my project - tbdstills.net
+- 🖌️ The intersection between software & art. Check out my project - [tbdstills.net](https://www.tbdstills.net)
 
 | <a href="https://github.com/trevorhauter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trevorhauter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Trevor's github stats" /></a> | <a href="https://github.com/trevorhauter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevorhauter&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
